@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## To-Do
 
-[x] Create Google Cloud Project
-[] Set Up Google Calendar API
-[] Set Up Google OAuth
-[] Show Embedded Calendar View
+[x] Create Google Cloud Project  
+[] Set Up Google Calendar API  
+[] Set Up Google OAuth  
+[] Show Embedded Calendar View  
